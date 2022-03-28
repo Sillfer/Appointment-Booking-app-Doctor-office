@@ -3,6 +3,8 @@ This is a [React.js](https://reactjs.org/) using [Vite](https://vitejs.dev/) app
 
 ## Getting started
 First you need to run the development server:
-`npm run dev'
-'or'
-'yarn dev'
+```bash
+npm run dev
+# or
+yarn dev
+```
